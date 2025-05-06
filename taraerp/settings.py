@@ -52,9 +52,6 @@
 #     'user',
 #     'product',
 #     'BusinessPartner',
-#     'inventory',
-#     'invoice',
-#     # 'key_user',
 #     ]
 
 # MIDDLEWARE = [
@@ -260,14 +257,6 @@ INSTALLED_APPS = [
     'order',
     'user',
     'BusinessPartner',
-    'Catalogue',
-    'Craftsman',
-    'KeyUsers',
-    'SuperAdmin',
-    'Admin',
-    'Users',
-    'ProcessOwner',
-    'product',
     ]
 
 MIDDLEWARE = [
